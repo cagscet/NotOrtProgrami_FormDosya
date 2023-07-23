@@ -1,0 +1,13 @@
+C:\Users\Cetin\source\repos\formislem\formislem\bin\Debug\formislem.exe.config
+C:\Users\Cetin\source\repos\formislem\formislem\bin\Debug\formislem.exe
+C:\Users\Cetin\source\repos\formislem\formislem\bin\Debug\formislem.pdb
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.csproj.AssemblyReference.cache
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.Form1.resources
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.Form2.resources
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.Properties.Resources.resources
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.csproj.GenerateResource.cache
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.exe
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.pdb
+C:\Users\Cetin\source\repos\formislem\formislem\obj\Debug\formislem.Form3.resources
